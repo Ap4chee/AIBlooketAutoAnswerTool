@@ -25,21 +25,14 @@ Follow these steps in order.
 ### Step 2: Install Dependencies
 
 1.  Clone or download this repository.
-2.  Create a `requirements.txt` file in the project folder with the following content:
 
-    ```
-    playwright
-    google-generativeai
-    python-dotenv
-    ```
-
-3.  Install the packages using pip:
+2.  Install the packages using pip:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  Install the browser engines for Playwright:
+3.  Install the browser engines for Playwright:
 
     ```bash
     playwright install
