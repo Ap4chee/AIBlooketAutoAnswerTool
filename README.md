@@ -26,6 +26,10 @@ Follow these steps in order.
 
 1.  Clone or download this repository.
 
+    ```bash
+    git clone https://github.com/Ap4chee/AIBlooketAutoAnswerTool
+    ```
+
 2.  Install the packages using pip:
 
     ```bash
